@@ -39,10 +39,9 @@ Demonstrar domínio **intermediário/avançado em Excel**, evidenciando a capaci
 ## 📥 Arquivos do Projeto
 
 - 📄 **Download do arquivo do dashboard (Excel)**  
-  👉 [Baixar arquivo](projeto/dashboard_vendas.xlsx)
-
+  👉 [Baixar arquivo](https://github.com/dayanesantos-ds/analise-de-dados-excel/blob/main/projeto/Dashboard%20Excel.xlsx)
 - 🎥 **Vídeo de demonstração do dashboard**  
-  👉 [Assistir ao vídeo](media/demonstracao_dashboard.mp4)
+  👉 [Assistir ao vídeo](https://github.com/dayanesantos-ds/analise-de-dados-excel/blob/main/projeto/v%C3%ADdeo%20dashboard%20excel.mp4)
 
 ---
 
