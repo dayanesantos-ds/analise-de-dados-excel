@@ -1,14 +1,25 @@
 # 📊 Dashboard de Vendas em Excel
 
 ## 📌 Descrição do Projeto
-Este projeto apresenta o desenvolvimento de um **dashboard interativo de vendas utilizando exclusivamente Excel**, com foco em **estudo prático avançado de análise de dados** e simulação de um cenário real de negócio.
+Este projeto apresenta o desenvolvimento de um **dashboard interativo de vendas utilizando exclusivamente Microsoft Excel**, com foco em **estudo prático avançado de análise de dados** e simulação de um cenário real de negócio.
 
 O trabalho contempla todas as etapas do processo analítico em Excel em **um único arquivo**, organizado por abas: **base bruta**, **base tratada** e **dashboard final**. Dessa forma, é possível acompanhar claramente a evolução dos dados desde a origem até a visualização final.
+
+O dashboard foi desenvolvido para atender tanto **gestores**, na visão estratégica dos resultados, quanto **analistas**, na exploração detalhada dos dados.
+
+---
+
+## 📸 Prévia do Dashboard
+
+![Prévia do Dashboard](media/print_dashboard.png)
+
+> *(Opcionalmente, você pode substituir por uma thumbnail clicável para o vídeo.)*  
+> `[![Clique para assistir ao vídeo](media/thumb_dashboard.png)](media/demonstracao_dashboard.mp4)`
 
 ---
 
 ## 🎯 Objetivo
-Demonstrar domínio **em Excel**, evidenciando minha capacidade de transformar dados brutos em informações relevantes para **análise de desempenho comercial e apoio à tomada de decisão**.
+Demonstrar domínio **intermediário/avançado em Excel**, evidenciando a capacidade de transformar dados brutos em informações relevantes para **análise de desempenho comercial e apoio à tomada de decisão**.
 
 ---
 
@@ -25,29 +36,13 @@ Demonstrar domínio **em Excel**, evidenciando minha capacidade de transformar d
 
 ---
 
-## 📂 Estrutura do Repositório
-
-```text
-📁 dashboard-vendas-excel
-│
-├── 📁 projeto
-│   └── dashboard_vendas.xlsx
-│
-├── 📁 media
-│   └── demonstracao_dashboard.mp4
-│
-└── README.md
-```
-
----
-
 ## 📥 Arquivos do Projeto
 
 - 📄 **Download do arquivo do dashboard (Excel)**  
-  👉 *(link será adicionado aqui após upload)*
+  👉 [Baixar arquivo](projeto/dashboard_vendas.xlsx)
 
 - 🎥 **Vídeo de demonstração do dashboard**  
-  👉 *(link será adicionado aqui após upload)*
+  👉 [Assistir ao vídeo](media/demonstracao_dashboard.mp4)
 
 ---
 
@@ -56,9 +51,6 @@ Este projeto reforça habilidades em:
 - Estruturação de bases de dados no Excel  
 - Construção de indicadores e métricas comerciais  
 - Criação de dashboards interativos  
-- Boa prática de organização analítica em etapas  
+- Organização analítica do processo de transformação de dados  
 
 ---
-
-
-
