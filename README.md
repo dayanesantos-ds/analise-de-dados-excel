@@ -5,8 +5,6 @@ Este projeto apresenta o desenvolvimento de um **dashboard interativo de vendas 
 
 O trabalho contempla todas as etapas do processo analítico em Excel em **um único arquivo**, organizado por abas: **base bruta**, **base tratada** e **dashboard final**. Dessa forma, é possível acompanhar claramente a evolução dos dados desde a origem até a visualização final.
 
-O dashboard foi desenvolvido para atender tanto **gestores**, na visão estratégica dos resultados, quanto **analistas**, na exploração detalhada dos dados.
-
 ---
 
 ## 📸 Prévia do Dashboard
