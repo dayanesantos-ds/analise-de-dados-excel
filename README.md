@@ -13,9 +13,6 @@ O dashboard foi desenvolvido para atender tanto **gestores**, na visão estraté
 
 ![Prévia do Dashboard](https://github.com/dayanesantos-ds/analise-de-dados-excel/blob/main/projeto/print%20dashboar.png))
 
-> *(Opcionalmente, você pode substituir por uma thumbnail clicável para o vídeo.)*  
-> `[![Clique para assistir ao vídeo](media/thumb_dashboard.png)](media/demonstracao_dashboard.mp4)`
-
 ---
 
 ## 🎯 Objetivo
